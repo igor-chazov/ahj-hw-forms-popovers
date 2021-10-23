@@ -1,6 +1,6 @@
 # Работа с HTML-формами
 
-#### [[Github Pages](https://igor-chazov.github.io/ahj-hw-forms/)]
+#### [![Build status](https://ci.appveyor.com/api/projects/status/9ebqo2cf7ptr6yhf?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-forms-popovers) [[Github Pages](https://igor-chazov.github.io/ahj-hw-forms/)]
 ---
 
 ### Popovers
